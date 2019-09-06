@@ -45,7 +45,7 @@ signs data set:
 
 #### 2. Include an exploratory visualization of the dataset.
 
-Here is an exploratory visualization of the data set. It is a bar chart showing how the data ...
+Some classes are way more represented than others, especially the classes from 0 to 15. The test set if not distributed the same as the training set.
 
 ![alt text][image1]
 
