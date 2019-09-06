@@ -21,7 +21,7 @@ The goals / steps of this project are the following:
 
 [image1]: ./images/1.PNG "Histogram"
 [image2]: ./images/2.PNG "New Images"
-[image3]: ./images/2.PNG "Features"
+[image3]: ./images/3.PNG "Features"
 
 
 ## Rubric Points
