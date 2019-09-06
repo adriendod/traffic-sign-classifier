@@ -19,9 +19,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./images/1.jpg "Histogram"
-[image2]: ./images/2.jpg "New Images"
-[image3]: ./images/2.jpg "Features"
+[image1]: ./images/1.png "Histogram"
+[image2]: ./images/2.png "New Images"
+[image3]: ./images/2.png "Features"
 
 
 ## Rubric Points
