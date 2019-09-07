@@ -22,6 +22,7 @@ The goals / steps of this project are the following:
 [image1]: ./images/1.PNG "Histogram"
 [image2]: ./images/2.PNG "New Images"
 [image3]: ./images/3.PNG "Features"
+[image4]: ./images/4.PNG "Softmax"
 
 
 ## Rubric Points
@@ -132,14 +133,10 @@ The model was able to correctly guess 4 of the 7 traffic signs, which gives an a
 
 For the first image, the model is relatively sure that this is a Right-of-way at the next intersection   (probability of 0.64), and the image does contain a stop sign. The top five soft max probabilities were
 
-| Probability         	|     Prediction	        					| 
-|:---------------------:|:---------------------------------------------:| 
-| .64         			| Right-of-way at the next intersection     									| 
-| .18     				| Double curve										|
-| .14					| Priority road										|
-| .14	      			| Roundabout mandatory			 				|
-| .11				    | Beware of ice/snow    							|
 
+![alt text][image4] 
+
+We can clearly see that the model is very confident for the 1rst image and very confused for the 5th image.
 
 
 ### (Optional) Visualizing the Neural Network (See Step 4 of the Ipython notebook for more details)
