@@ -41,7 +41,7 @@ signs data set:
 * The size of the validation set is 4410
 * The size of test set is 12630
 * The shape of a traffic sign image is 32x32x3
-* The number of unique classes/labels in the data set is 10
+* The number of unique classes/labels in the data set is 43
 
 #### 2. Include an exploratory visualization of the dataset.
 
@@ -79,7 +79,7 @@ My final model consisted of the following layers:
 | RELU					|
 | Dropout					|		keep_prob = 0.5   |
 | Fully Connected. | Output = 75			     									|
-| Softmax| Output = 10|
+| Softmax| Output = 43|
 
 
 #### 3. Describe how you trained your model. The discussion can include the type of optimizer, the batch size, number of epochs and any hyperparameters such as learning rate.
